@@ -8,6 +8,7 @@ Example:
 Suppose we have an object containing Sales data for the year. 
 Before running any sort of statistical model against the data, we want to check if the dataset follows a normal distribution:
 
+```
 var sales = [
                 { month: 6, year: 2014, qty: 89.901 },
                 { month: 7, year: 2014, qty: 16.167 },
@@ -35,5 +36,6 @@ var sales = [
 	"stdS":35.65433134799652,
 	"pValue":0.125253075405902,
 	"normal":true} 
+```
 
- normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
+Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
