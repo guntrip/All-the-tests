@@ -168,10 +168,10 @@ var adNormalityTest = (function () {
     //------------------------------------------------------------
     //------------------------------------------------------------
     var check = function (arr) {
-        console.log('check called1' + arr);
+     
 
         if (arr && arr.length >= 1) {
-            console.log('check called2' + arr);
+        
             var data = {};
             data.data = arr.sort(function (a, b) { return a - b; });
             data.mean = mean(data.data);
