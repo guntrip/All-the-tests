@@ -170,6 +170,7 @@ var adNormalityTest = (function () {
 
 
     var test = 'test change to master branch' 
+   var test2 = 'test2'
 
     var check = function (arr) {
      
