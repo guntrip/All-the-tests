@@ -1,7 +1,7 @@
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
 
-https://en.wikipedia.org/wiki/Anderson%E2%80%93Darling_test
+[Testing for Normality](https://en.wikipedia.org/wiki/Anderson%E2%80%93Darling_test)
 
 Example: 
 
