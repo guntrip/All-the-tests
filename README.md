@@ -1,3 +1,5 @@
+![Open Issues](http://in.waw.pl/systemd-github-state/systemd-issues-open.svg)
+
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
 
