@@ -1,4 +1,4 @@
-http://www.creativeshrimp.com/book
+http://www.creativeshrimp.com/book  
 https://www.youtube.com/watch?v=dtXkvqLsllw
 
 sIBL type of lightning is supposedly supported in blender
