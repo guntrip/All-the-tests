@@ -1,9 +1,9 @@
 http://www.creativeshrimp.com/book  
 https://www.youtube.com/watch?v=dtXkvqLsllw
 
-sIBL type of lightning is supposedly supported in blender
+sIBL type of lightning is supposedly supported in blender  
 http://hdrlabs.com/sibl/archive.html  
-http://hdrlabs.com/sibl/framework.html
+http://hdrlabs.com/sibl/framework.html  
 The idea is to have multiple images
 
 a super high res panorama as camera background
