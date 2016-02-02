@@ -1,6 +1,17 @@
-![Open Issues][Issues]
+http://www.creativeshrimp.com/book
+https://www.youtube.com/watch?v=dtXkvqLsllw
 
-[Issues]: http://in.waw.pl/systemd-github-state/systemd-issues-open.svg
+sIBL type of lightning is supposedly supported in blender
+http://hdrlabs.com/sibl/archive.html
+http://hdrlabs.com/sibl/framework.html
+
+The idea is to have multiple images
+
+a super high res panorama as camera background
+a high res HDR as specular component for reflection
+a blurred low res HDR as diffuse environment lighting
+and a
+sun lamp.
 
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
