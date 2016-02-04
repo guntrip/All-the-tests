@@ -1,7 +1,11 @@
-{% comment %} 
-    These commments will not include inside the source.
-{% endcomment %}
 
+
+[comment]: # (This actually is the most platform independent comment)
+
+<!---
+your comment goes here
+and here
+-->
 
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
