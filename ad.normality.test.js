@@ -18,7 +18,7 @@ var adNormalityTest = (function () {
     }
     //------------------------------------------------------------
     //------------------------------------------------------------
-    var variance = function (arr, std_type) {
+        var variance = function (arr, std_type) {
 
         var sum = 0;
         var v = 0;
