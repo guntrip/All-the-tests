@@ -1,4 +1,3 @@
-![alttext](https://github.com/uwiger/rvi_core/raw/uw-docs_0_5_0/doc/pdf/BUILD.pdf)
 
 [comment]: # (This actually is the most platform independent comment)
 
