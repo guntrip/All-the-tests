@@ -17,7 +17,7 @@ In the Visual Studio Solution Explorer you will find a folder called Solution It
 ![](../Attachments/asset-pipeline/solution-items.png)
 
 The `Gulpfile.js` is the JavaScript code that is executed during the build. It will scan all the modules folders for `assets.json` manifests and process them. The assets manifest is a simple JSON format file which groups together files by inputs and outputs. This is what the Orchard.DynamicForms asset.json looks like:
-
+```
     [
         {
             "inputs": [
@@ -36,6 +36,7 @@ The `Gulpfile.js` is the JavaScript code that is executed during the build. It w
             "output": "Styles/@.css"
         }
     ]
+ ```
 
 The file format is described in detail in the Assets.json section below.
 
