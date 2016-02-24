@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![alttext](https://github.com/uwiger/rvi_core/raw/uw-docs_0_5_0/doc/pdf/BUILD.pdf)
 
 [comment]: # (This actually is the most platform independent comment)
@@ -48,3 +49,6 @@ var sales = [
 ```
 
 Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
+=======
+# zipline-portfolio
+>>>>>>> 9af76f9812b39ebda63d55bb3929bb77894c4995
