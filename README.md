@@ -6,9 +6,9 @@ A simple way to use this library in laravel 4.2. You can use it in other version
 3. Put "pagination_sort_helper.php" file in "helpers" folder.
 4. Include (require) "pagination_sort_helper.php" file in helpers.php.
 in helpers.php write:
-```php
+php
 require_once __DIR__ . '/helpers/pagination_sort_helper.php';
-```
+
 5. Load helpers.php file in "app/start/global.php". At the end of the file:
 ```php
 require app_path() . '/filters.php';
