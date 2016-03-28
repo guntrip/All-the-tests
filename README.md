@@ -1,4 +1,4 @@
-![Testimage](imgtest.png)
+![Testimage](img-test.png)
 
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
