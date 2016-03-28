@@ -1,3 +1,5 @@
+<img src='https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg'></img>
+
 ![Testimage](play.svg)
 
 # Anderson-Darling-Normal-Test
