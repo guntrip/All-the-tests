@@ -1,4 +1,4 @@
-<img src='play.svg'></img>
+<img src='https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg'></img>
 
 ![Testimage](https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg)
 
