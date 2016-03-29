@@ -1,6 +1,6 @@
 <img src='play.svg'></img>
 
-![Testimage](play.svg)
+![Testimage](https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg)
 
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
