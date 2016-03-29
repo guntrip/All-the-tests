@@ -1,4 +1,4 @@
-<img src='https://github.com/staceb/Anderson-Darling-Normal-Test/blob/master/play.svg'></img>
+<img src='play.svg'></img>
 
 ![Testimage](play.svg)
 
