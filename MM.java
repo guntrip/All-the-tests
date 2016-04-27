@@ -145,7 +145,7 @@ public class DList<T>
 		{
 		if (list == null)
 			throw new NullPointerException
-				("DList.copy(): list is null");
+			 ("DList.copy(): list is null");
 		clear();
 		DListEntry<T> p = list.first();
 		while (p != null)
