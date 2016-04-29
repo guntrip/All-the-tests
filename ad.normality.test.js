@@ -3,19 +3,19 @@ var adNormalityTest = (function () {
 
     //------------------------------------------------------------
     //------------------------------------------------------------
-    var mean = function (arr) {
-
-        var sum = 0;
-        var length = arr.length;
-        for (var i = 0; i < length; i++) {
-
-            sum = sum + arr[i]
+        var mean = function (arr) {
+    
+            var sum = 0;
+            var length = arr.length;
+            for (var i = 0; i < length; i++) {
+    
+                sum = sum + arr[i]
+            }
+    
+            var mean = sum / length;
+            return mean;
+    
         }
-
-        var mean = sum / length;
-        return mean;
-
-    }
     //------------------------------------------------------------
     //------------------------------------------------------------
     var variance = function (arr, std_type) {
