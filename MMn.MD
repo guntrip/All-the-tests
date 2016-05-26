@@ -6,6 +6,10 @@ Second commit
 
 <a target="_blank" href="http:/google.com">
 
+[link](href="http:/google.com"){:target="_blank"}
+
+
+
 mm
 ,,
 
