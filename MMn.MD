@@ -5,7 +5,7 @@ Test for squash
 Second commit 
 
 
-[textforlink](http:/google.com)
+[textforlink](http:/google.com){:target="_blank"}
 
 
 
