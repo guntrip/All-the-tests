@@ -5,7 +5,7 @@ Test for squash
 Second commit 
 
 
-[link](href="http:/google.com")
+[textforlink](http:/google.com)
 
 
 
