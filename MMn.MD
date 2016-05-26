@@ -4,6 +4,8 @@ Test for squash
 
 Second commit 
 
+<a target="_blank" href="http:/google.com">
+
 mm
 ,,
 
