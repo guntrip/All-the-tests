@@ -1,0 +1,8 @@
+:project-name: maven-build-process
+:project-group: de.xn--ho-hia.maven
+
+image:
+https://img.shields.io/maven-central/v/{project-group}/{project-name}.svg?style=flat-square["Maven
+Central", link="
+https://maven-badges.herokuapp.com/maven-central/{project-group}/{project-name}
+"]
