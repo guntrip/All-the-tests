@@ -47,4 +47,3 @@ Normal attribute is true if normal and false if not-normal. (Based on P-Value be
 bbb
 
 mmmmm
-nnnnn
