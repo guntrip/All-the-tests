@@ -1,4 +1,5 @@
 # Category groups referenced in many categories, should be defined before being referenced.
+editing line two of the file
 @food
 en:Food
 cs:Jídlo
