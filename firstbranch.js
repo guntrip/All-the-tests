@@ -1,2 +1,1 @@
 object member
-object member
