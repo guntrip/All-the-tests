@@ -1,6 +1,6 @@
 The MIT License
 
-Copyright (c) Glen De Cauwsemaecker
+Copyright (c) Glen De Cauwsemaecker and contributers
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
