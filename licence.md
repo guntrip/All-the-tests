@@ -1,4 +1,4 @@
-The MIT License (MIT)
+The MIT License
 
 Copyright (c) Glen De Cauwsemaecker and Contributors
 
