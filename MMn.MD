@@ -1,10 +1,1 @@
-nnn
-
-Test for squash
-
-Second commit
-...
-00
-
-
-pp
+Change to non japanese file
