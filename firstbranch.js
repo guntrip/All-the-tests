@@ -1,4 +1,3 @@
-vvvv
 object member
 
 mmm
