@@ -1,14 +1,17 @@
 tab
 	tab
 
-# Anderson-Darling-Normal-Test
+	# Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
 
 [Testing for Normality](https://en.wikipedia.org/wiki/Anderson%E2%80%93Darling_test)
 
 Example: 
 
-object.member
+	object.member
+
+
+
 
 Suppose we have an object containing Sales data for the year. 
 Before running any sort of statistical model against the data, we want to check if the dataset follows a normal distribution:
@@ -49,7 +52,4 @@ Normal attribute is true if normal and false if not-normal. (Based on P-Value be
 bbb
 
 mmmmm
-aaaaa
 
-test tags
-..
