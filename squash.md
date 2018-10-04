@@ -1,3 +1,3 @@
-Test commit message on Squash
+Commit to test Autoclose revert 
 
-ppp
+Commit to test Autoclose revert 

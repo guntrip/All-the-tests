@@ -43,4 +43,7 @@ var sales = [
 ```
 
 Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 89eb9e8283224bd78d5daad12f3e459e33e3026d
