@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<img src='https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg'></img>
-
-![Testimage](https://raw.githubusercontent.com/staceb/Anderson-Darling-Normal-Test/master/play.svg)
 =======
-tab
-	tab
->>>>>>> cf3868eb8225469a7d75165559ec6fd4a2c3b2af
+
+
 
 # Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
@@ -50,14 +45,3 @@ var sales = [
 ```
 
 Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
-<<<<<<< HEAD
-
-testing
-=======
-bbb
-
-mmmmm
-aaaaa
-
-test tags
->>>>>>> cf3868eb8225469a7d75165559ec6fd4a2c3b2af
