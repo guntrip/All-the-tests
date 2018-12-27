@@ -42,5 +42,3 @@ var sales = [
 	"normal":true} 
 ```
 
-Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
-add a line
