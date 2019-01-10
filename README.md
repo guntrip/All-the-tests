@@ -1,5 +1,4 @@
-tab
-	tab
+
 
 	# Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
@@ -45,11 +44,4 @@ var sales = [
 	"pValue":0.125253075405902,
 	"normal":true} 
 ```
-
-..
-
-Normal attribute is true if normal and false if not-normal. (Based on P-Value being > 0.05)
-bbb
-
-mmmmm
 
