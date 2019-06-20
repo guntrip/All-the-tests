@@ -8,7 +8,7 @@ various platforms.
 
 
 klibc is archived at:
-
+..
 	ftp://ftp.kernel.org/pub/linux/libs/klibc/
 
 There is a mailing list for klibc and early-userspace issues at:
