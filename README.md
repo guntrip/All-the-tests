@@ -1,5 +1,6 @@
 
 
+
 	# Anderson-Darling-Normal-Test
 Javascript Library to check if a set of data passes the Anderson Darling Normal Test:
 
@@ -42,5 +43,4 @@ var sales = [
 	"stdP":33.99507108488105,
 	"stdS":35.65433134799652,
 	"pValue":0.125253075405902,
-	"normal":true} 
 
