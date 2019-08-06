@@ -4,7 +4,7 @@
   - [Docs](https://dev.mysql.com/doc/refman/en)
 
 ---
-
+--
 - [How to comment](#how-to-comment)
   - [How to comment - Additional info](#how-to-comment---additional-info)
 - [How to `SHOW DATABASES`](#how-to-show-databases)
