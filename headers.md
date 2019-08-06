@@ -1,4 +1,4 @@
-# MySQL
+# MySQL --
 
 - [Official site](https://mysql.com) 
   - [Docs](https://dev.mysql.com/doc/refman/en)
