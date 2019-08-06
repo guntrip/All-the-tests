@@ -247,7 +247,7 @@ SELECT * FROM user WHERE id BETWEEN 1 AND 5;
 ```
 
 ``` mysql
-# "A" inclusive, "J" no
+# "A" inclusive, "J" nomm
 SELECT * FROM user WHERE first_name BETWEEN 'A' AND 'J';
 ```
 
